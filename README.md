@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sergiogg94
+- 👀 I’m interested in data science
+- 📫 e-mail: gutierrez.galarza.s.402@gmail.com
